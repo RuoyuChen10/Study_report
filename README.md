@@ -2,7 +2,7 @@
 
 ## 秋季学期
 
-- 多媒体分析与理解，人工智能学院，卢汉卿 et al.
+- 多媒体分析与理解，人工智能学院，卢汉清 et al.
 - 高级人工智能，计算机学院，沈华伟 et al.
 - 工业视觉检测，人工智能学院，刘智勇 et al. 请见[https://github.com/RuoyuChen10/Shape_Context_Matching](https://github.com/RuoyuChen10/Shape_Context_Matching)
 - 机器学习，网安学院，周晓飞 et al.
